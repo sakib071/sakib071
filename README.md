@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakib071
 - 👀 I’m interested in coding, problem solving and illustration
-- 🌱 I’m currently learning java,js,html,css,android studio
+- 🌱 I’m currently learning java, js, html, css, android studio
 - 📫 How to reach me : mdsakibchy071@gmail.com
 
 <!---
