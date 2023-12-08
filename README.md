@@ -5,9 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Logo](https://i.ibb.co/QXFKWRH/github-Cover.png)](https://github.com)
 
-<h1 align="center">Hi 👋, I'm Mohammad Sakib Chowdhury</h1>
-<h3 align="center">Software Engineer | UI/UX Designer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib071&label=Profile%20views&color=0e75b6&style=flat" alt="sakib071" /> </p>
 
 - 🔭 I’m currently working on **React and Frontend Projects**
