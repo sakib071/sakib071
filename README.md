@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 [![Tools](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://skillicons.dev)
 ##
 
-[![Connect with me](https://api.githubtrends.io/user/svg/sakib071/repos?time_range=one_year&theme=dark)]
+![](https://api.githubtrends.io/user/svg/sakib071/repos?time_range=one_year&theme=dark)
 
 
 ![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib071&show_icons=true&theme=radical)
