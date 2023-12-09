@@ -24,9 +24,11 @@ You can click the Preview link to take a look at your changes.
 [![Tools](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://skillicons.dev)
 ##
 
-![Sakib's GitHub stats](https://api.githubtrends.io/user/svg/sakib071/repos?time_range=one_year&theme=dark)
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib071&show_icons=true&theme=dark&hide_border=true&card_width=300)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakib071&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=380)](https://git.io/streak-stats)
 
+##
 
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib071&show_icons=true&theme=radical&hide_border=true)
+![Sakib's GitHub stats](https://api.githubtrends.io/user/svg/sakib071/repos?time_range=one_year&theme=dark&hide_border=true)
 
-[![Sakib's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakib071&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&align=center)
+
