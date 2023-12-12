@@ -24,6 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://skillicons.dev)
-##
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
