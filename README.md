@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://sakib071-portfolio.netlify.app/](https://sakib071-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohammad-sakib-chowdhury.vercel.app/](https://mohammad-sakib-chowdhury.vercel.app/)
 
 - 💬 Ask me about **Tailwind, Node.js**
 
