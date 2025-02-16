@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://mohammad-sakib-chowdhury.vercel.app/](https://mohammad-sakib-chowdhury.vercel.app/)
 
-- 💬 Ask me about **Tailwind, Node.js**
+- 💬 Ask me about **NextJS, Tailwind, Node.js**
 
 - 📫 How to reach me **mdsakibchy071@gmail.com**
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,vite,firebase,mongo,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react,vite,nodejs,express,firebase,mongo,mysql)](https://skillicons.dev)
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://skillicons.dev)
